@@ -5,7 +5,7 @@
   <img src="https://telegra.ph/file/7046fa7136dd54b6fe668.jpg">
 </p>
 
-# Amelia Group BoT
+# Sung Jin-Woo BoT
 
 ### Telegram Group
 <p align="left">
